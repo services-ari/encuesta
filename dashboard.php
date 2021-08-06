@@ -666,7 +666,7 @@ if(us_level == 6):
 		<div class="pt-footer">
 			<div>
 					Copyright © 2021 <a href="#">Multiservicios ari</a>. Todos los derechos reservados.<br>
-					Programación y diseño por <a href="https://servitecfl.com" target="_blanc">Fidel Nolasco</a>.
+					Programación y diseño por <a href="https://bacanstudio.com" target="_blanc">Bacanstudio</a>.
 			</div>
 		</div>
 	</div>

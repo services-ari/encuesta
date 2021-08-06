@@ -9,7 +9,7 @@
 		</div>
 		<div>
 				Copyright © 2021 <a href="<?=path?>"><?=site_title?></a>. Todos los derechos reservados.<br>
-				Programación y diseño por <a href="https://servitecfl.com" target="_blanc">Fidel Nolasco</a>.
+				Programación y diseño por <a href="https://bacanstudio.com" target="_blanc">Bacanstudio</a>.
 		</div>
 	</div>
 
